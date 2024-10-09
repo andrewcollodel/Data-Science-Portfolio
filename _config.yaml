@@ -1,0 +1,5 @@
+title: Data Science Portfolio
+logo:
+# description: text below the image # teels the code to ignore the line
+show_downloads: true
+theme: jekyll-theme-minimal
