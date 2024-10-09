@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 First attempt at a GitHub project
-![histogram](assets/images/histogram.png)
+![histogram](histogram.png)
 ## smalller heading 2
 do not do more than three heading styles
 ## Quality of the data 
