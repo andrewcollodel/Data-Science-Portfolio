@@ -1,5 +1,6 @@
 # Data-Science-Portfolio
 First attempt at a GitHub project
+![Me](assets/images/Andrew C)
 ## smalller heading 2
 do not do more than three heading styles
 ## Quality of the data 
