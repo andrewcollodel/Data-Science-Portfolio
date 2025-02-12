@@ -9,4 +9,4 @@
 
 ** BOLD **
 
-![animated-professor-clipart-6](https://github.com/user-attachments/assets/18b64b8e-aba3-4415-9fc3-400d24f8446d)
+![Garden Torquay 3](https://github.com/user-attachments/assets/91b07b8c-14b3-44ae-a246-6d4a2ccd86d0)
