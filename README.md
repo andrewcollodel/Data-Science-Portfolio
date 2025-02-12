@@ -8,4 +8,5 @@
 *Itallic* 
 
 ** BOLD **
-![animated-professor-clipart-6](https://github.com/user-attachments/assets/ae651599-d518-4d8c-8229-6a9d9009c38e)
+
+![animated-professor-clipart-6](https://github.com/user-attachments/assets/18b64b8e-aba3-4415-9fc3-400d24f8446d)
